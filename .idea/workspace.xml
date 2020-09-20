@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1534952-389b-485f-b46f-f37553a947e0" name="Default Changelist" comment="Carriage Return between links">
+    <list default="true" id="a1534952-389b-485f-b46f-f37553a947e0" name="Default Changelist" comment="Updated Project List links&#10;Added CSS file">
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -59,6 +62,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -86,7 +90,7 @@
       <updated>1599772007109</updated>
       <workItem from="1599772009833" duration="4416000" />
       <workItem from="1599862368844" duration="5803000" />
-      <workItem from="1600354362741" duration="5569000" />
+      <workItem from="1600354362741" duration="8184000" />
     </task>
     <task id="LOCAL-00001" summary="Change of Title and Body">
       <created>1599773259976</created>
@@ -130,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600367483116</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removal of unneeded code">
+      <created>1600367674018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367674018</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removal of unneeded code">
+      <created>1600367697433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367697433</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +172,9 @@
     <MESSAGE value="Some changes" />
     <MESSAGE value="Addition of About Page, Projects Page, Project 1, and Project 2" />
     <MESSAGE value="Carriage Return between links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carriage Return between links" />
+    <MESSAGE value="Removal of unneeded code" />
+    <MESSAGE value="Updated Project List links&#10;Added CSS file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Project List links&#10;Added CSS file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="359" y="0" key="#Deployment" timestamp="1600355144055">
@@ -185,11 +205,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="439" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599772857483" />
-    <state x="2169" y="78" key="Vcs.Push.Dialog.v2" timestamp="1600367493195">
+    <state x="2169" y="78" key="Vcs.Push.Dialog.v2" timestamp="1600367706516">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600362912777" />
-    <state x="2169" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600367493195" />
+    <state x="2169" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600367706516" />
     <state x="497" y="239" key="WebDeployment.AddServerDialog.v.1" timestamp="1599774017448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
