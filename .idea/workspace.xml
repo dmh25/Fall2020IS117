@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1534952-389b-485f-b46f-f37553a947e0" name="Default Changelist" comment="">
+    <list default="true" id="a1534952-389b-485f-b46f-f37553a947e0" name="Default Changelist" comment="Updated Project List links&#10;Added CSS file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +37,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hKuGAdpr5MqDx96bBn4fG9JwNW" />
@@ -29,8 +58,34 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\70e7330\WebstormProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.project1.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://web.njit.edu/~dmh25/fall2020is117/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="project1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://web.njit.edu/~dmh25/fall2020is117/project1.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.project1.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,14 +95,126 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599772007109</updated>
-      <workItem from="1599772009833" duration="1197000" />
+      <workItem from="1599772009833" duration="4416000" />
+      <workItem from="1599862368844" duration="5803000" />
+      <workItem from="1600354362741" duration="16712000" />
+      <workItem from="1600642132620" duration="78000" />
     </task>
+    <task id="LOCAL-00001" summary="Change of Title and Body">
+      <created>1599773259976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599773259976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: Initial Commit">
+      <created>1599866646854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599866646854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some changes">
+      <created>1599866753107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599866753107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Addition of About Page, Projects Page, Project 1, and Project 2">
+      <created>1600361503655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600361503655</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Carriage Return between links">
+      <created>1600362900667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600362900667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Carriage Return between links">
+      <created>1600367483116</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367483116</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removal of unneeded code">
+      <created>1600367674018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367674018</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removal of unneeded code">
+      <created>1600367697433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367697433</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated Project List links&#10;Added CSS file">
+      <created>1600624709302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600624709302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change of Title and Body" />
+    <MESSAGE value="Task: Initial Commit" />
+    <MESSAGE value="Some changes" />
+    <MESSAGE value="Addition of About Page, Projects Page, Project 1, and Project 2" />
+    <MESSAGE value="Carriage Return between links" />
+    <MESSAGE value="Removal of unneeded code" />
+    <MESSAGE value="Updated Project List links&#10;Added CSS file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Project List links&#10;Added CSS file" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2303" y="0" key="#Deployment" timestamp="1600639616756">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="0" key="#Deployment/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600355144055" />
+    <state x="2303" y="0" key="#Deployment/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600639616756" />
+    <state x="2202" y="0" key="#SSH_Configurations" timestamp="1600639488498">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="0" key="#SSH_Configurations/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599863123256" />
+    <state x="2202" y="0" key="#SSH_Configurations/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600639488498" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599774203209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599774203209" />
+    <state x="2019" y="100" width="1169" height="530" key="DirDiffDialog" timestamp="1600641212125">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DirDiffDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599866595651" />
+    <state x="2019" y="100" width="1169" height="530" key="DirDiffDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600641212125" />
+    <state x="547" y="95" key="FileChooserDialogImpl" timestamp="1599862890123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="547" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599862890123" />
     <state x="520" y="238" width="372" height="204" key="Github.ShareDialog" timestamp="1599772835826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -56,5 +223,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="439" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599772857483" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1600625158328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600625158328" />
+    <state x="2169" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600367706516" />
+    <state x="497" y="239" key="WebDeployment.AddServerDialog.v.1" timestamp="1599774017448">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="497" y="239" key="WebDeployment.AddServerDialog.v.1/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599774017448" />
+    <state x="93" y="93" width="1095" height="495" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599867088944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599867088944" />
+    <state x="652" y="70" key="ftp.server.browser" timestamp="1599862914969">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="652" y="70" key="ftp.server.browser/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599862914969" />
+    <state x="511" y="232" key="publish.login" timestamp="1599862719501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="511" y="232" key="publish.login/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1599862719501" />
+    <state x="2399" y="101" key="webDeployment.PermissionsDialog.Tabs" timestamp="1600641183919">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2399" y="101" key="webDeployment.PermissionsDialog.Tabs/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1600641183919" />
   </component>
 </project>
