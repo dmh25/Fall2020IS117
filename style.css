@@ -2,17 +2,10 @@ html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 36px;
     line-height: 61px;
-
-}
-
-root {
-    --sqrt2: 1.4142;
-    --octTriW: calc(100% - ((var(--sqrt2) * 100) / (var(--sqrt2) + 2)) / 2);
-    --octTri2Tri: calc(100% - var(--octTriW) * 2 + 0.6);
 }
 
 #wrapper {
-    width: 1000px;
+    width: 1208px;
     margin-left: auto;
     margin-right: auto;
 }
